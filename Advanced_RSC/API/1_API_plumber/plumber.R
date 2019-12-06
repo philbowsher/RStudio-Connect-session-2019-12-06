@@ -1,3 +1,6 @@
+# FUROSEMIDE
+# PREDNISONE
+
 library("openfda")
 #* @get /outcomes
 #* @param drug:character Drug name
